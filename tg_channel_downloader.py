@@ -18,7 +18,7 @@ save_path = 'downloads'  # Dont change this unless you know what you are doing
 upload_file_set = True  # set upload file to google drive
 drive_id = '1iT_R7wU3Dosnu20tmQnZp-5uJyQsQR_u'  # Folder ID of Teamdrive
 drive_name = 'GC'  # Dont change this unless you know what you are doing
-max_num = 5  # Simultaneous downloads
+max_num = 20  # Simultaneous downloads
 # filter file name/File name filtering
 filter_list = ['Hello, welcome to @DestinyTorrentCloud',
                '\n']
