@@ -10,17 +10,17 @@ from telethon import TelegramClient, events, errors
 from telethon.tl.types import MessageMediaWebPage
 
 #***********************************************************************************#
-api_id = 1234567   # your telegram api id
-api_hash = '1234567890abcdefgh'  # your telegram api hash
-bot_token = '1234567890:ABCDEFGHIJKLMNOPQRST'  # your bot_token
-admin_id = 1234567890  # your user id
+api_id = 1257435   # your telegram api id
+api_hash = '5c5912e48a015908753a9c55234a12ab'  # your telegram api hash
+bot_token = '1318989420:AAGtzY0gv2QIdoQmkH-vfFpJ_aAnlExszqs'  # your bot_token
+admin_id = 1190679407  # your user id
 save_path = 'downloads'  # Dont change this unless you know what you are doing
 upload_file_set = True  # set upload file to google drive
-drive_id = '5FyJClXmsqNw0-Rz19'  # Folder ID of Teamdrive
+drive_id = '1iT_R7wU3Dosnu20tmQnZp-5uJyQsQR_u'  # Folder ID of Teamdrive
 drive_name = 'GC'  # Dont change this unless you know what you are doing
-max_num = 10  # Simultaneous downloads
+max_num = 5  # Simultaneous downloads
 # filter file name/File name filtering
-filter_list = ['Hello, welcome to join Quantumu',
+filter_list = ['Hello, welcome to @DestinyTorrentCloud',
                '\n']
 # filter chat id /Filter some channels not to download
 blacklist = [1388464914,]
